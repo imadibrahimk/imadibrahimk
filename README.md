@@ -1,6 +1,6 @@
 
-![alt text](https://[github.com/Imad-Ibrahim-K/Demo/blob/main/images/p-7.gif])
-![alt text](https://github.com/Imad-Ibrahim-K/Demo/blob/main/images/p-7.gif)
+
+![alt text](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/p-7.gif)
 
 
 
