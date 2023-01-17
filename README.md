@@ -1,5 +1,5 @@
 <div style="text-align:center">
-![alt text](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/hello.gif)
+https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/hello.gif
 </div>
 
 - 👋 Hi, I’m Imad Ibrahim
