@@ -12,7 +12,6 @@
 --->
 
 ![alt text](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/p-7.gif)
-<h3 align="center">![Test Automation](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/hello.gif)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imad-ibrahim-k" alt="imad-ibrahim-k" /></a> </p>
 
