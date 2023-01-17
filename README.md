@@ -1,5 +1,6 @@
+<p align="center">
 ![alt text](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/hello.gif)
-
+<p>
 
 - 👋 Hi, I’m Imad Ibrahim
 - 🌱 I’m currently learning Python
