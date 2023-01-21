@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, I’m Imad Ibrahim
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django and MongoDB
 - 💞️ Coding is like playing games for me
 - 📫 How to reach me @imadibrahim164@gmail.com
 
