@@ -37,7 +37,7 @@
 
 ..................
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Status
 
 
 
