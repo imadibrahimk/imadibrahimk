@@ -2,7 +2,11 @@
 ![Test Automation](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/hello.gif)
 
 
+## Work Experience
 
+### NBT Business Solution
+#### Full Stack Developer
+*(2023 - Present)*
 
 - 👋 Hi, I’m Imad Ibrahim
 - 🌱 I’m currently learning Django + React js
