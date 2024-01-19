@@ -6,7 +6,7 @@
 
 ### NBT Business Solution
 #### Full Stack Developer
-#####*(2023 - Present)*
+##### *(2023 - Present)*
 
 - 👋 Hi, I’m Imad Ibrahim
 - 🌱 I’m currently learning Django + React js
