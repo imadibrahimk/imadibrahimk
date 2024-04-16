@@ -22,17 +22,17 @@
 
 --->
 
-![alt text](https://github.com/Imad-Ibrahim-K/Demo/blob/master/images/p-7.gif)
+![alt text](https://github.com/imadibrahimk/Demo/blob/master/images/p-7.gif)
 
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imad-ibrahim-k" alt="imad-ibrahim-k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadibrahimk" alt="imadibrahimk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imad-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imad-ibrahim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imad-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imadibrahimk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:19323608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19323608" height="30" width="40" /></a>
 <a href="https://instagram.com/_imad________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_imad________" height="30" width="40" /></a>
 </p>
@@ -48,8 +48,8 @@
 
 
 
-<a href="https://github.com/Imad-Ibrahim-K ">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Ibrahim-K&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/imadibrahimk ">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadibrahimk&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <br>
