@@ -9,7 +9,7 @@
 ##### *(2024 - Present)*
 
 - 👋 Hi, I’m Imad Ibrahim
-- 🌱 I’m currently learning Django + React js
+- 🌱 I’m currently expanding my knowledge in AI-driven technologies.
 - 💞️ Coding is like playing games for me
 - 📫 How to reach me @imadibrahim164@gmail.com
 - 🧰 <a href="https://imad-ibrahim-portfolio.netlify.app/">My Portfolio</a>
