@@ -4,9 +4,9 @@
 
 ## Work Experience
 
-### NBT Business Solution
-#### Full Stack Developer
-##### *(2023 - Present)*
+### Alforia Pvt ltd
+#### Software Development
+##### *(2024 - Present)*
 
 - 👋 Hi, I’m Imad Ibrahim
 - 🌱 I’m currently learning Django + React js
