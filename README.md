@@ -4,9 +4,9 @@
 
 ## Work Experience
 
-### Alforia Pvt ltd
-#### Software Development
-##### *(2024 - Present)*
+### Lascade
+#### IOS Lead
+##### *(2025 - Present)*
 
 - 👋 Hi, I’m Imad Ibrahim
 - 🌱 I’m currently expanding my knowledge in AI-driven technologies.
